@@ -5,7 +5,7 @@ Clean and preprocess the Titanic dataset to prepare it for machine learning.
 
 ## Dataset Used
 **File Name:** Titanic-Dataset.csv  
-**Source:** Kaggle - [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)  
+**Source:** Kaggle - [Titanic dataset: titanic survival prediction dataset ](https://www.kaggle.com/c/titanic)  
 
 ## Tools Used
 - Python  
