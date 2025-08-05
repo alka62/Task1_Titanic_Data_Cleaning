@@ -33,7 +33,7 @@ Clean and preprocess the Titanic dataset to prepare it for machine learning.
 ## Files in this Repository
 - `Titanic-Dataset.csv` – Original dataset  
 - `titanic_cleaned.csv` – Cleaned dataset  
-- `Task1_Titanic_Cleaning.ipynb` – Jupyter/Colab notebook with code and outputs  
+- `Task1_Titanic_Cleaning.ipynb` – Colab notebook with code and outputs  
 - `screenshots/` – Before & after heatmaps and survival plots
 
 ## Author
